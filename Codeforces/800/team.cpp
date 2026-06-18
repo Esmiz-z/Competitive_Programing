@@ -19,7 +19,7 @@ int main(){
     }
     
     }
-cout<<s;
+cout<<s<<"\n";
 
 
 }
